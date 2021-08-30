@@ -1,5 +1,5 @@
-# Capstone-Design
-# Project title (Capstone design 2021-2)
+# Capstone Design 2021-2
+# Project title
 * Student list
 
 ## Overview
