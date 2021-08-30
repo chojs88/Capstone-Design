@@ -27,4 +27,4 @@ void Example(int x, int y) {
 ## Reports
 * [Report](Reports/Final.pdf) 
 * [Paper](Reports/Paper.pdf)
-* [Demo video](Reports/Demo.mp4)
+* [Demo](Reports/Demo.mp4)
